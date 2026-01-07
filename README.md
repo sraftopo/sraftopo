@@ -43,10 +43,6 @@ I'm a senior full-stack engineer with **15 years of experience** architecting en
 - 🧑‍🏫 Mentoring junior developers
 - 📝 Writing technical content about government systems architecture
 
-## 📊 GitHub Stats
-
-![Stavros's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraftopo&show_icons=true&theme=default)
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raftopoulos-stavros/)
