@@ -47,7 +47,7 @@ I'm a senior full-stack engineer with **15 years of experience** architecting en
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raftopoulos-stavros/)
 - 🐦 [X/Twitter](https://x.com/RaftDigiDesign)
-- 📧 raftopoulos.stavros@gmail.com
+- 📧 raftopoulos.stavros (at) gmail.com
 - 🌐 Portfolio: [sraftopo.com](https://sraftopo.com)
 
 ## 🗂️ Featured Projects
