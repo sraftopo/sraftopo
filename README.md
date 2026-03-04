@@ -1,6 +1,6 @@
 # Hi, I'm Stavros Raftopoulos 👋
 
-**Senior Full-Stack Engineer | Technical Architect | Seeking Technical Leadership Roles**
+**Senior Full-Stack Engineer | Technical Architect | AI Solutions Architect**
 
 📍 Athens, Greece | 🇬🇷 Greek/🇬🇧 English
 
