@@ -112,6 +112,7 @@ I specialize in the intersection of **full-stack engineering** and **applied AI*
     <td valign="middle"><strong>CI/CD</strong></td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/GitHub%20Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/GitLab-ffffff?style=for-the-badge&logo=gitlab&logoColor=2088FF&labelColor=ffffff" />
     </td>
   </tr>
 </table>
