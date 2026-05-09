@@ -70,6 +70,7 @@ I specialize in the intersection of **full-stack engineering** and **applied AI*
     <td valign="middle"><strong>Automation</strong></td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/n8n-ffffff?style=for-the-badge&logo=n8n&logoColor=EA4B71&labelColor=ffffff" />
+      <img src="https://img.shields.io/badge/comfyui-ffffff?style=for-the-badge&logo=n8n&logoColor=EA4B71&labelColor=ffffff" />
     </td>
   </tr>
   <tr>
